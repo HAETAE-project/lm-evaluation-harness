@@ -1,5 +1,4 @@
-group:
-    - click
+group: click
 dataset_path: HAERAE-HUB/click-hr
 output_type: generate_until
 test_split: test
